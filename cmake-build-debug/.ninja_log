@@ -1,0 +1,6 @@
+# ninja log v5
+1	121	1672429877361561400	build.ninja	d0232d5fb7c6e12c
+1	2913	1672429880302239500	CMakeFiles/Assigenment_2.dir/Server/main.cpp.o	18c7c465f7d22116
+3	2828	1672430143160867500	CMakeFiles/Assigenment_2.dir/Server/main.cpp.o	18c7c465f7d22116
+3	2452	1672430217544421000	CMakeFiles/Assigenment_2.dir/Server/main.cpp.o	18c7c465f7d22116
+3	2354	1672430263355808700	CMakeFiles/Assigenment_2.dir/Server/main.cpp.o	18c7c465f7d22116

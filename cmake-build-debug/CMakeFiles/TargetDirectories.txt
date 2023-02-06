@@ -1,0 +1,3 @@
+/media/salaheltenhy/01D903E9CFC137B0/College/Level 3/Term 1/Networks/labs/Assigemnet-2/Assigenment-2/cmake-build-debug/CMakeFiles/Assigenment_2.dir
+/media/salaheltenhy/01D903E9CFC137B0/College/Level 3/Term 1/Networks/labs/Assigemnet-2/Assigenment-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/salaheltenhy/01D903E9CFC137B0/College/Level 3/Term 1/Networks/labs/Assigemnet-2/Assigenment-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
